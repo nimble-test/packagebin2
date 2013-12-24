@@ -1,0 +1,1 @@
+This is a binary package which tests issue [nimrod-code/babel#22](https://github.com/nimrod-code/babel/issues/22).
